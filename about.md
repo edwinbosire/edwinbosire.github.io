@@ -3,28 +3,38 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome to my blog, here I will be writing whatever I wish, after all, it is my blog.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Posts will be about tech and programming, but on the off chance I am a bit moody, there could be insane rants ending in tears and regrets.
 
-There are currently two themes built on Poole:
+I want to keep an online journal of whatever I am learning in the hopes that this will provide me with the extra motivation to continue.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I am an iOS developer at [RedAnt](http://www.redant.com), before that I worked with some awesome people at [The Other Media](http://www.othermedia.com).
+I studied Electronic and Computer Engineering at the [University of Leeds](http://www.leeds.ac.uk), although I have enjoy learning on my own mainly by breaking stuff.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I mess around in **Python**, **Ruby on Rail** and 
+**Android**. I am currently deploying most of my stuff on **Rackspace** but I am slowly warming up to **Amazon EC2** (this topic deserves a blog post).
+I hate all the recruiter spam on linkedin, I hate emails, I also hate the London tube during rush hour. And my surname is BOSIRE (BO-SEE-RAY) not BO-SA-YAH and definitely not BO-ZEE-YEH
 
-## Setup
+Some iOS Apps I have worked on (In no particular order) ***This list is not complete***
 
-Some fun facts about the setup of this project include:
+####Personal
+- [Habari](https://itunes.apple.com/gb/app/habari/id509329627?mt=8) - News reading app powered by a RoR backend hosted on Rackspace 
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+####RedAnt
+- [Topshop](https://itunes.apple.com/gb/app/topshop/id355683626?mt=8)  Retail App for TopShop
+- [Multi-Currency cash passport](https://itunes.apple.com/gb/app/multi-currency-cash-passport/id663429657?mt=8)  Transfer of money
+- [miDrive](https://itunes.apple.com/gb/app/midrive-essential-driving/id755418884?mt=8) Learner's app for drivers
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+####The Other Media
+- [ECB Cricket](https://itunes.apple.com/gb/app/ecb-cricket/id314954199?mt=8) Official app for the ECB
+- [Football league](https://itunes.apple.com/gb/app/football-league-official-clubs/id385520353?mt=8) Official app for Football league
 
-Thanks for reading!
+####Dead in the water projects
+- XKCD Reader.
+- World Travel Advice.
+- Leeds University Union.
+
+
+> "I don't know the key to success, but the key to failure is trying to please everybody."
+

@@ -279,6 +279,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 3rem;
 }
 .masthead-title {
+  text-align: right;
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
