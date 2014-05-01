@@ -28,4 +28,4 @@ This series will include:
 3. Implementing the API using **flask**
 
 
-Ultimately, this post Raison d'être is to keep track of my learning activities. There will be plenty of bugs.
+Ultimately, this post's raison d'être is to keep track of my learning activities. There will be plenty of bugs.
