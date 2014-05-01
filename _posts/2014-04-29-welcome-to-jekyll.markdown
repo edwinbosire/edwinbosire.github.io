@@ -12,7 +12,7 @@ Posts will be about tech and programming, but on the off chance I am a bit moody
 I want to keep an online journal of whatever I am learning in the hopes that this will provide me with the extra motivation to continue.
 
 I am an iOS developer at [RedAnt](http://www.redant.com), before that I worked with some awesome people at [The Other Media](http://www.othermedia.com).
-I studied Electronic and Computer Engineering at the [University of Leeds](http://www.leeds.ac.uk), although I have enjoy learning on my own mainly by breaking stuff.
+I studied Electronic and Computer Engineering at the [University of Leeds](http://www.leeds.ac.uk), although I enjoy learning on my own and mainly by breaking stuff.
 
 I mess around in **Python**, **Ruby on Rail** and 
 **Android**. I am currently deploying most of my stuff on **Rackspace** but I am slowly warming up to **Amazon EC2** (this topic deserves a blog post).
