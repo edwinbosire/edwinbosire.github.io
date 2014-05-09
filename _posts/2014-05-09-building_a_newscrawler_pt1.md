@@ -4,6 +4,8 @@ title:  "Building a NewsCrawler: pt1"
 date:   2014-05-09 01:39:44
 categories: Server Python
 ---
+
+*This is a draft copy, its not complete*
 #Introduction
 
 This tutorial/walk through assumes that you are already familiar with python and the terminal. I would also strongly advice anyone remotely interested in understanding scrapy to have a look at their (documentation)[http://doc.scrapy.org/en/latest/intro/overview.html] and preferably follow the quick tutorial and setup instruction outlined.
@@ -126,4 +128,5 @@ Its as simple as that. To run the spider and save the results in a json file run
 	
 ###What the?
 
+***This is a draft copy, its not complete***
 	 	  
