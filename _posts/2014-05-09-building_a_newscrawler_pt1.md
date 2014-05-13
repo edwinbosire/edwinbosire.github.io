@@ -6,6 +6,7 @@ categories: Server Python
 ---
 
 *This is a draft copy, its not complete*
+
 #Introduction
 
 This tutorial/walk through assumes that you are already familiar with python and the terminal. I would also strongly advice anyone remotely interested in understanding scrapy to have a look at their (documentation)[http://doc.scrapy.org/en/latest/intro/overview.html] and preferably follow the quick tutorial and setup instruction outlined.
