@@ -9,7 +9,7 @@ categories: Server Python
 
 #Introduction
 
-This tutorial/walk through assumes that you are already familiar with python and the terminal. I would also strongly advice anyone remotely interested in understanding scrapy to have a look at their (documentation)[http://doc.scrapy.org/en/latest/intro/overview.html] and preferably follow the quick tutorial and setup instruction outlined.
+This tutorial/walk through assumes that you are already familiar with python and the terminal. I would also strongly advice anyone remotely interested in understanding scrapy to have a look at their [documentation](http://doc.scrapy.org/en/latest/intro/overview.html) and preferably follow the quick tutorial and setup instruction outlined.
 
 The example in the documentation is a simple spider. Basic spiders are good if we intend on retrieving information from a list of pages that we currently know the URLs of. This is no good in our scenario where a lot of pages need to be scraped. This is where the crawler comes in, crawlers provide a convenient mechanism to follow links, you can refer to the [documentation](http://doc.scrapy.org/en/latest/topics/spiders.html#crawling-rules) here to refresh your memory.
 
@@ -24,11 +24,11 @@ Follow the [Installation Guide](http://doc.scrapy.org/en/latest/intro/install.ht
 
 ####Create a new project
 
-***Have you installed scrapy yet? I struggled to get to work on osx, if you get __libxml__ issue, just know you are in for a long ride ***
+***Have you installed scrapy yet? I struggled to get it to work on osx, if you get __libxml__ issue, just know you are in for a long ride ***
 
 	scrapy startproject hermes
 
-This will create a project called `nationmedia` in the directory you ran it in ***tutorial*** in this case.
+This will create a project called `hermes` in the directory you ran it in ***tutorial*** in this case.
 Explore this directory, its pretty boring at first.
 	
 		tutorial/ 
