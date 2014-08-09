@@ -134,28 +134,28 @@ The output should be a json file of all the scrapped articles. In this case from
 As you can see from the code, we are using xpath to extract information from the html response, this is the part that makes scrapping such a fragile task, if the website you are scrapping updates its html files, then you have to do the same here.
 
 #####PoliticsSpider [Class:]
-This is our main class, if you are going to have multiple crawlers running, this is the class to duplicate. It takes a few parameters.
+This is our main class, if you are going to have multiple crawlers running, this is the class to duplicate. To use this class, you have to set a few parameters.
 
 1. **Name**
 2. **Allowed Domains**
 3. **Start_urls**
 4. **rules**.
 
-All these are self explanatory apart from the last one. This are rules to follow while crawling links originating from the Start_urls. 
+All these are self explanatory apart from the last one. These are **rules**** to follow while crawling links originating from the **Start_urls**. 
 
-**Allow:** In our example, we are only accepting URLS containing *news/politics*, as we sure that any article in such a URL is a politics item.
+**Allow:** In our example, we are only accepting URLS containing `news/politics`, as we sure that any article with that URL is a politics item.
 
 **Restricted_xpaths:** Restricts the link to a certain xpath, we are currently not implementing this.
 
-**Deny:** We also deny /view/asFeed as this is the extension found in the RSS feed page, there are plenty of other rules we can apply, but these two seem to be of utmost importance.
+**Deny:** We also deny `/view/asFeed` as this is the extension found in the RSS feed page, there are plenty of other rules we can apply, but these two seem to be of utmost importance.
 
-**Callback:** This property, this is the method we call back to after parsing is complete, please** DO NOT** name your method 'parse' as this is already in use internally.
+**Callback:** This is the method we call back to after parsing is complete, please **DO NOT** name your method 'parse' as this is already in use internally by scrapy, I learnt this the hard way.
 
 **Follow:** Instructs the program to continue following links as long as they exist, this is how we recursively crawl entire websites.
 	
 ######Parse_page [Method]
 
-This method is called once we have retrieved the contents of a page, this is where our parsing occurs.
+This method is called once we have retrieved the contents of a page. The page is still in its original format, in this case HTML, it will need to be structured.
 
 We delegate the actual parsing to the **MainParse** class, just trying to observe some OOP principles. To execute the actual parsing, we make the following call. `item = mainParser.scrapNationOnline()`. It returns an **Item** object, this item object defines a news article.
 
@@ -165,5 +165,5 @@ That is all that you need to parse a website, I would suggest you read the docum
 
 Website scraping is fun, but don't be a douche bag, don't run 100 scrapers 24/7 on someone else's site. Also don't steal information and claim it as your own, this really pisses some people off.
 
-In the next web scraping tutorial, we will look at how we deploy our scrapy to the cloud and automate the entire process.
+In the next web scraping tutorial, we will look at how we deploy our scraper to the cloud and automate the entire process.
 
