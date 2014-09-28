@@ -12,7 +12,7 @@ This project I am working on is a bit old actually. I've had to rescue it from t
 
 The project I am working on is a Tube Status app for London, I know what you are thinking, not one of those again, we've got a bunch of this shit already we don't need another one. This particular one has a twist though, like no other app on the store, this one is anything but polite. Take a peek at the screen shots below.
 
-Also, I am collecting e-mails to judge interest, if I reach a certain magic number (haven't decided what it is yet) and I shall only embark on the development if its viable, my time could be better spent on app that more people will find useful. So here is the link. http://signup.londonchube.com/
+Also, I am collecting e-mails to judge interest, if I reach a certain magic number (haven't decided what it is yet) and I shall only embark on the development if its viable, my time could be better spent on app that more people will find useful. [So here is the link. signup](http://signup.londonchube.com/)
 
 <img width = "250" src="https://dl.dropboxusercontent.com/u/49117984/chube/AuthenticTube_Design_08.png">
 <img width = "250" src="https://dl.dropboxusercontent.com/u/49117984/chube/AuthenticTube_Design_05.png">
