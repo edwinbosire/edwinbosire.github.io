@@ -14,7 +14,7 @@ The project I am working on is a Tube Status app for London, I know what you are
 
 Also, I am collecting e-mails to judge interest, if I reach a certain magic number (haven't decided what it is yet) and I shall only embark on the development if its viable, my time could be better spent on app that more people will find useful. So here is the link. http://signup.londonchube.com/
 
+<img width = "250" src="https://dl.dropboxusercontent.com/u/49117984/chube/AuthenticTube_Design_08.png">
+<img width = "250" src="https://dl.dropboxusercontent.com/u/49117984/chube/AuthenticTube_Design_05.png">
+<img width = "250" src="https://dl.dropboxusercontent.com/u/49117984/chube/AuthenticTube_Design_03.png">
 
-![](https://dl.dropboxusercontent.com/u/49117984/chube/AuthenticTube_Design_08.png)
-![](https://dl.dropboxusercontent.com/u/49117984/chube/AuthenticTube_Design_05.png)
-![](https://dl.dropboxusercontent.com/u/49117984/chube/AuthenticTube_Design_03.png)
