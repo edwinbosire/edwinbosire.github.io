@@ -48,6 +48,9 @@ The results? Well, its hard to explain this, but lets look at my rank on Saturda
 
 Yes, that number **14** on top paid Lifestyle app. (Now slipped to #30). You must be thinking am rolling in Lizzie's at the moment, hardly the case, But at least I've managed to recoup my Apple Dev account charges, and maybe get an extra Mojito over the weekend.
 
+Just In: The app got to #1 on the App store in Senegal and Bahamas.....Which means absolutely nothing unfortunately. Can someone please explain to me how the app store ranking works, is it broken?
+
+
 There are hardly any reviews or ratings.
 
 Did I hack the Itunes store? Hell no, but I don't know how I manage to rank so high in the first place.
