@@ -7,7 +7,7 @@ categories: iOS Side-Projects
 
 <div align="center"> <img width = "640" src= "https://dl.dropboxusercontent.com/u/49117984/swiprlogo-long.jpg"> </div>
 
-As I wrote in my [previous post, I created an app called [Swipr](https://itunes.apple.com/gb/app/swipr-auto-liker-for-tinder/id919218867?mt=8), it's a simple tinder hack for those obsessive right swipers out there. It's been 5 days since the app  went live and this is my summary so far.
+As I wrote in my [previous post](http://edwinbosire.github.io/ios/side-projects/2014/10/01/Swipr/), I created an app called [Swipr](https://itunes.apple.com/gb/app/swipr-auto-liker-for-tinder/id919218867?mt=8), it's a simple tinder hack for those obsessive right swipers out there. It's been 5 days since the app  went live and this is my summary so far.
 
 ##### Why did I do it?
 What made me do it you ask? I went out and asked a few questions, I already knew the Tinder API was exposed, so I knew what was possible. Apparently a few of the people I asked if they would fancy the exploit. The Tinder API was/is easy to exploit, more on this on another post. For the tech savvy, you can review this [Gist](https://gist.github.com/rtt/10403467)
@@ -62,4 +62,5 @@ So why did I try out this strategy? Ever heard of the saying 'Old ways won't ope
 
 This experiment is nearly done, I'll probably ship a few updates before leaving the app to die a slow death or remove it entirely from the store. Should I remind you that this app has been live for only 5 days?
 
+Got some feedback? Mail me a dev at edwinb dot co dot uk or get me on [twitter](www.twitter.com/edwinbosire)
 
