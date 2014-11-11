@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I hacked Tinder (and the app store)"
-date:   2014-10-04 28:50:00
+date:	2014-10-04 18:50:00
 categories: iOS Side-Projects
 ---
 
