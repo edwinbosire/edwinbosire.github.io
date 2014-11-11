@@ -7,12 +7,12 @@ categories: iOS Side-Projects
 
 <div align="center"> <img width = "640" src= "https://dl.dropboxusercontent.com/u/49117984/swiprlogo-long.jpg"> </div>
 
-As I wrote in my [previous post, I created an app called [Swipr](https://itunes.apple.com/gb/app/swipr-auto-liker-for-tinder/id919218867?mt=8), it's a simple tinder hack for those obsessive right swipers out there. It's been 5 days since the app  went live and this is my summary so far.
+As I wrote in my [previous post](http://edwinbosire.github.io/ios/side-projects/2014/10/01/Swipr/), I created an app called [Swipr](https://itunes.apple.com/gb/app/swipr-auto-liker-for-tinder/id919218867?mt=8), it's a simple tinder hack for those obsessive right swipers out there. It's been 5 days since the app  went live and this is my summary so far.
 
 ##### Why did I do it?
-What made me do it you ask? I went out and asked a few questions, I already knew the Tinder API was exposed, so I knew what was possible. Apparently a few of the people I asked if they would fancy the exploit. The Tinder API was/is easy to exploit, more on this on another post. For the tech savvy, you can review this [Gist](https://gist.github.com/rtt/10403467)
+What made me do it you ask? I went out and asked a few questions, I already knew the Tinder API was exposed, so I knew what was possible. Apparently a few of the people I asked if they would fancy the exploit quite liked the idea. The Tinder API was/is easy to exploit, more on this on another post. For the tech savvy, you can review this [Gist](https://gist.github.com/rtt/10403467)
 
-Also, I just wanted a side project for September.
+Also, I just wanted a side project for September. :)
 
 #### How long did I spend on development.
 
@@ -40,7 +40,7 @@ The app got reject twice, the facebook login was a bit tricky to get right at fi
 
 #### Marketing.
 
-What marketing? So far, its been this blog, a post on Reddit giving away free promo codes (Look [here](http://www.reddit.com/r/Tinder/comments/2i0114/tinder_hack_50_promo_codes_for_an_app_that_will/) if any are left) and a post on [Hacker News](https://news.ycombinator.com/item?id=8385373) that hardly made an impact, thats all the 'marketing' I did.
+What marketing? So far, its been this blog, a post on Reddit giving away free promo codes (Look [here](http://www.reddit.com/r/Tinder/comments/2i0114/tinder_hack_50_promo_codes_for_an_app_that_will/) if any are left) and a post on [Hacker News](https://news.ycombinator.com/item?id=8385373) that hardly made an impact, thats all the 'marketing' I did. Oh, and this [landing page](http://swipr.edwinb.co.uk/) that's had about 5 views since inception.
 
 The results? Well, its hard to explain this, but lets look at my rank on Saturday morning.
 
@@ -48,13 +48,16 @@ The results? Well, its hard to explain this, but lets look at my rank on Saturda
 
 Yes, that number **14** on top paid Lifestyle app. (Now slipped to #30). You must be thinking am rolling in Lizzie's at the moment, hardly the case, But at least I've managed to recoup my Apple Dev account charges, and maybe get an extra Mojito over the weekend.
 
+Just In: The app got to #1 on the App store in Senegal and Bahamas.....Which means absolutely nothing unfortunately. Can someone please explain to me how the app store ranking works, is it broken?
+
+
 There are hardly any reviews or ratings.
 
 Did I hack the Itunes store? Hell no, but I don't know how I manage to rank so high in the first place.
 
 #### Conclusion
 
-Did I ship a buggy app? Damn right I did, and am not very proud of that, but that's what updates are about, even Apple (iOS 8.0.1 anyone?) ships buggy software.
+Did I ship a buggy app? Damn right I did, and am not very proud of that, but that's what updates are for, even Apple (iOS 8.0.1 anyone?) ships buggy software, so please don't judge.
 
 This app was an experiment, I have been trying to test the market before commencing development, I did not chose a large test group, if anything, the people I based the app's interest on where very biased. These were my friends and colleagues.
 
@@ -62,4 +65,4 @@ So why did I try out this strategy? Ever heard of the saying 'Old ways won't ope
 
 This experiment is nearly done, I'll probably ship a few updates before leaving the app to die a slow death or remove it entirely from the store. Should I remind you that this app has been live for only 5 days?
 
-
+Got some feedback? Mail me a dev at edwinb dot co dot uk or get me on [twitter](www.twitter.com/edwinbosire)
