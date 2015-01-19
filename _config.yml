@@ -24,11 +24,9 @@ version:          2.0.0
 github:
   repo:           https://github.com/edwinbosire
 
-twitter:
-  url:            https://twitter.com/edwinbosire
+twitter:          https://twitter.com/edwinbosire
   
-linkedin:
-  url:            http://uk.linkedin.com/in/edwinbosire/
+linkedin:         http://uk.linkedin.com/in/edwinbosire/
 
 # This is the list of pages to incldue in the header of the website.
 pages_list:
