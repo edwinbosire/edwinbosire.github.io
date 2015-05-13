@@ -8,7 +8,7 @@ categories: Side-Projects
 > A Smooth Sea Never Made a Skilful Sailor.
 
 
-I've had a side project or two for as far as I could program. It's on rare occasions that I would find myself completely free of anything to do, be it at work or on my own free time. Therefore I would like to share my knowledge on what I learnt about my latest project, [Swipr](http://www.google.com), which can be found on the app store.
+I've had a side project or two for as far as I could program. It's on rare occasions that I would find myself completely free of anything to do, be it at work or on my own free time. Therefore I would like to share my knowledge on what I learnt about my latest project, [Swipr](https://itunes.apple.com/us/app/swipr-auto-liker-for-tinder/id919218867?ls=1&mt=8), which can be found on the app store.
 
 Without further ado, here are 10 things I learnt working on this project.
 
