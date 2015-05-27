@@ -31,9 +31,12 @@ Some iOS Apps I have worked on (In no particular order) ***This list is not comp
 - [Multi-Currency cash passport](https://itunes.apple.com/gb/app/multi-currency-cash-passport/id663429657?mt=8)  Transfer of money
 - [miDrive](https://itunes.apple.com/gb/app/midrive-essential-driving/id755418884?mt=8) Learner's app for drivers
 
+
 ####The Other Media
 - [ECB Cricket](https://itunes.apple.com/gb/app/ecb-cricket/id314954199?mt=8) Official app for the ECB
 - [Football league](https://itunes.apple.com/gb/app/football-league-official-clubs/id385520353?mt=8) Official app for Football league
+- [Atlas by Collins](https://itunes.apple.com/gb/app/atlas-by-collins-themed-collection/id560461884?mt=8) Atlas by collins
+
 
 ####Dead in the water projects
 - XKCD Reader.
