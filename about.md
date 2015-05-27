@@ -23,6 +23,7 @@ Some iOS Apps I have worked on (In no particular order) ***This list is not comp
 - [Swipr](https://itunes.apple.com/gb/app/swipr-auto-liker-for-tinder/id919218867?mt=8) Tinder on steroids
 - [Hermes](https://github.com/edwinbosire/hermes) Python based news scraper
 - [Weatherly](https://github.com/edwinbosire/YAWA) Weather app written in Swift
+
 ####RedAnt
 - [JackWills](https://itunes.apple.com/gb/app/jack-wills/id940012948?mt=8) iOS Jackwills E-Commerce App
 - [JackWills](https://play.google.com/store/apps/details?id=com.jackwills) Android Jackwills E-Commerce App
