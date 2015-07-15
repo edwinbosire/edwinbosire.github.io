@@ -5,8 +5,6 @@ date:   2015-07-15 13:30:00
 categories: Rant
 ---
 
-#Hi Employers, WTF!
-
 So its no secret that I have been looking for work
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I am currently looking for a new iOS role. Any takers? <a href="https://twitter.com/hashtag/jobhunting?src=hash">#jobhunting</a> <a href="https://twitter.com/hashtag/ios?src=hash">#ios</a></p>&mdash; Edwin Bosire (@edwinbosire) <a href="https://twitter.com/edwinbosire/status/616199167363444738">July 1, 2015</a></blockquote>
