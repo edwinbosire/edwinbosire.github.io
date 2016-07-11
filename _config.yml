@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Edwin,
 tagline:          'About me'
-description:      'I am the Lead iOS developer at <a href="http://www.dennis.co.uk">Dennis Publishing</a>, doer of all good and bad on the <a href="http://https://itunes.apple.com/gb/app/week-uks-best-news-current/id468108781?mt=8">The Week</a> app.  I've got working knowledge of python, mongodb, android and ruby on rails. Stalk me on <a href="uk.linkedin.com/in/edwinbosire/">LinkedIn</a>.'
+description:      'I am the Lead iOS developer at <a href="http://www.dennis.co.uk">Dennis Publishing</a>, doer of all good and bad on the <a href="https://itunes.apple.com/gb/app/week-uks-best-news-current/id468108781?mt=8">The Week</a> app.  I've got working knowledge of python, mongodb, android and ruby on rails. Stalk me on <a href="uk.linkedin.com/in/edwinbosire/">LinkedIn</a>.'
 url:              http://twitter.com/edwinbosire
 resume:           '/resume.html'
 
