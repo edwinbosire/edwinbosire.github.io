@@ -1,5 +1,5 @@
 # Dependencies
-remote_theme: chesterhow/tale
+theme: chesterhow/tale
 permalink:  /:year-:month-:day/:title
 paginate: 5
 
