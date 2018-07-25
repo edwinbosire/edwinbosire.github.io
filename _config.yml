@@ -1,24 +1,39 @@
 # Dependencies
-theme:slate
+remote_theme: chesterhow/tale
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jemoji
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://edwinbosire.github.io"
+
 markdown: kramdown
 highlighter: rouge
-pygments: true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Edwin,
+title:            Edwin Bosire,
 tagline:          'About me'
-description:      'I am the Lead iOS developer at <a href="http://www.dennis.co.uk">Dennis Publishing</a>, doer of all good and bad on the <a href="https://itunes.apple.com/gb/app/week-uks-best-news-current/id468108781?mt=8">The Week</a> app.'
+description:      'A Software Engineer with particular interest in mobile applications.'
 url:              http://twitter.com/edwinbosire
 resume:           '/resume.html'
 
 author:
   name:           'Edwin Bosire'
   url:            https://twitter.com/edwinbosire
-
-paginate:         5
 
 # Custom vars
 version:          2.0.0
