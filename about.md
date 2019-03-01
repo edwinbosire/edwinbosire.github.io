@@ -6,22 +6,9 @@ permalink: /about/
 date: 2018-04-29 22:39:44
 ---
 
-Welcome to my blog, I'll post about tech and programming, but on the off chance I am a bit moody, there could be insane rants ending in tears and regrets.
+A seasoned Sofware Engineer with experience building apps for individuals and small companies to mega corporations.
 
-I want to keep an online journal of whatever I am learning in the hopes that this will provide me with the extra motivation to continue. 
-
-**Update** No it did not, motivation for writing is still at 0%
-
-I am a Software Engineer at a financial institution, and that's all I am allowed to say, honestly. 
-
-I ~~am~~ was the Lead iOS developer at [Dennis Publishing](http://www.dennis.co.uk), I mainly work on [The Week](https://itunes.apple.com/gb/app/week-uks-best-news-current/id468108781?mt=8) and I also act as the point man for all things mobile. 
-In the past I worked as an iOS developer at [RedAnt](http://www.redant.com), before that I worked with some awesome people at [The Other Media](http://www.othermedia.com).
-
-I studied Electronic and Computer Engineering at the [University of Leeds](http://www.leeds.ac.uk), I enrolled to this course as I always enjoyed tinkering with gadgets, then I discovered programming, and the rest is history.
-
-I mess around in **Swift**, **Objective-c**, **Python**, **Ruby on Rails** and 
-**Android**. I am currently deploying most of my stuff on **Rackspace** but I am slowly warming up to **Amazon EC2** (this topic deserves a blog post).
-I hate all the recruiter spam on linkedin, I hate emails, I also hate the London tube during rush hour. 
+I still Google search the most basic APIs, and no, I can't traverse a tree in order while balancing on an egg either.
 
 Some iOS Apps I have worked on (In no particular order) ***This list is wildly incomplete and out of date***
 
@@ -51,4 +38,3 @@ Some iOS Apps I have worked on (In no particular order) ***This list is wildly i
 - Leeds University Union.
 
 
-*Are you still reading? Surely there are better things to do with your time than being here*
