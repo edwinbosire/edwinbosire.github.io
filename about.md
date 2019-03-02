@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-author: "Ed"
+title: A bit about myself
+author: "Edwin"
 permalink: /about/
 date: 2018-04-29 22:39:44
 ---
